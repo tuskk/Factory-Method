@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method-master\\Factory Method\\Factory Method.csproj",
+      "projectUniqueName": "D:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\Factory Method.csproj",
       "projectName": "Factory Method",
-      "projectPath": "D:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method-master\\Factory Method\\Factory Method.csproj",
+      "projectPath": "D:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\Factory Method.csproj",
       "packagesPath": "C:\\Users\\Mega\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method-master\\Factory Method\\obj\\",
+      "outputPath": "D:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mega\\AppData\\Roaming\\NuGet\\NuGet.Config"

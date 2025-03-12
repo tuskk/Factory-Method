@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "66Hh0y5nN+s=",
+  "dgSpecHash": "oCPkiIBk5fU=",
   "success": true,
-  "projectFilePath": "d:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method-master\\Factory Method\\Factory Method.csproj",
+  "projectFilePath": "D:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\Factory Method.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mega\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
     "C:\\Users\\Mega\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
