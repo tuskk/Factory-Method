@@ -2,6 +2,6 @@
 {
     internal interface ICreator
     {
-        IMotorVehicle Create();
+        IHumanoid Create();
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\Factory Method.csproj": {}
+    "d:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\Factory Method.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\Factory Method.csproj": {
+    "d:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\Factory Method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\Factory Method.csproj",
+        "projectUniqueName": "d:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\Factory Method.csproj",
         "projectName": "Factory Method",
-        "projectPath": "D:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\Factory Method.csproj",
+        "projectPath": "d:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\Factory Method.csproj",
         "packagesPath": "C:\\Users\\Mega\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\obj\\",
+        "outputPath": "d:\\Users\\Mega\\Desktop\\Нова папка\\Factory-Method\\Factory Method\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mega\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -77,7 +77,7 @@
             txt.Name = "txt";
             txt.Size = new Size(501, 33);
             txt.TabIndex = 5;
-            txt.Text = "🌟 Оберіть тип транспортного засобу 🌟";
+            txt.Text = "Choose Character origin for DnD";
             // 
             // Client
             // 

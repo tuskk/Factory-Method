@@ -31,3 +31,20 @@ d:\Users\Mega\Desktop\Нова папка\Factory-Method-master\Factory Method\o
 d:\Users\Mega\Desktop\Нова папка\Factory-Method-master\Factory Method\obj\Debug\net8.0-windows\Factory Method.pdb
 d:\Users\Mega\Desktop\Нова папка\Factory-Method-master\Factory Method\obj\Debug\net8.0-windows\Factory Method.genruntimeconfig.cache
 d:\Users\Mega\Desktop\Нова папка\Factory-Method-master\Factory Method\obj\Debug\net8.0-windows\ref\Factory Method.dll
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\bin\Debug\net8.0-windows\Factory Method.exe
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\bin\Debug\net8.0-windows\Factory Method.deps.json
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\bin\Debug\net8.0-windows\Factory Method.runtimeconfig.json
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\bin\Debug\net8.0-windows\Factory Method.dll
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\bin\Debug\net8.0-windows\Factory Method.pdb
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\obj\Debug\net8.0-windows\Factory_Method.Client.resources
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\obj\Debug\net8.0-windows\Factory Method.csproj.GenerateResource.cache
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\obj\Debug\net8.0-windows\Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\obj\Debug\net8.0-windows\Factory Method.AssemblyInfoInputs.cache
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\obj\Debug\net8.0-windows\Factory Method.AssemblyInfo.cs
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\obj\Debug\net8.0-windows\Factory Method.csproj.CoreCompileInputs.cache
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\obj\Debug\net8.0-windows\Factory Method.sourcelink.json
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\obj\Debug\net8.0-windows\Factory Method.dll
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\obj\Debug\net8.0-windows\refint\Factory Method.dll
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\obj\Debug\net8.0-windows\Factory Method.pdb
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\obj\Debug\net8.0-windows\Factory Method.genruntimeconfig.cache
+d:\Users\Mega\Desktop\Нова папка\Factory-Method\Factory Method\obj\Debug\net8.0-windows\ref\Factory Method.dll

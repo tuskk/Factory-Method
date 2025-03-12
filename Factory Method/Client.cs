@@ -13,25 +13,25 @@ namespace Factory_Method
 
         private void Client_Load(object sender, EventArgs e)
         {
-            listObject.Items.Add("Motorcycle");
-            listObject.Items.Add("Car");
+            listObject.Items.Add("Fighter 5E Creator");
+            listObject.Items.Add("Barbarian 5E Creator");
         }
 
         private void listObject_SelectedIndexChanged(object sender, EventArgs e)
         {
             switch (listObject.SelectedItem.ToString())
             {
-                case "Motorcycle":
-                    creator = new MotorcycleCreator();
+                case "Fighter":
+                    creator = new FighterCreator();
                     break;
-                case "Car":
-                    creator = new CarCreator();
+                case "Barbarian":
+                    creator = new Barbarian5ECreator();
                     break;
                 default:
                     break;
             }
             string typeName = listObject.SelectedItem.ToString();
-            IMotorVehicle vehicle = creator.Create();
+            IHumanoid vehicle = creator.Create();
             vehicle.Build(typeName);
         }
 

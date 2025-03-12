@@ -1,6 +1,6 @@
 ﻿namespace Factory_Method
 {
-    internal interface IMotorVehicle
+    internal interface IHumanoid
     {
         void Build(string typeName);
     }
